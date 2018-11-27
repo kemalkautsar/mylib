@@ -1,0 +1,2 @@
+# mylib
+simple laravel library
